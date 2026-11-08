@@ -6,7 +6,7 @@ Group: U4225<br>
 Author: Presnyakova Anastasia Alekseevna<br>
 Lab: Lab1<br>
 Date of create: 05.11.2026<br>
-Date of finished:
+Date of finished: 05.11.2026
 
 # Лабораторная работа №1. Обзор Google Cloud и исследование основных сервисов
 
